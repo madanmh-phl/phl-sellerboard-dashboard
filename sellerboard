@@ -208,43 +208,55 @@
         </section>
 
         <!-- SECTION 3: DASHBOARD SCREENSHOTS -->
-        <section id="dashboard" class="hidden animate-fade-in space-y-8 max-w-6xl mx-auto">
-            <header>
-                <h2 class="text-3xl font-black text-slate-900">Live Trial Evidence</h2>
-                <p class="text-slate-500 font-medium">Visual verification from our PHL test account managing US, JP, MX, and Walmart data.</p>
-            </header>
+        <!-- SECTION 3: DASHBOARD SCREENSHOTS -->
+<section id="dashboard" class="hidden animate-fade-in space-y-8 max-w-6xl mx-auto">
+    <header>
+        <h2 class="text-3xl font-black text-slate-900">Live Trial Evidence</h2>
+        <p class="text-slate-500 font-medium">Visual verification from our PHL test account managing US, JP, MX, and Walmart data.</p>
+    </header>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
-                <div class="screenshot-card bg-white p-5 rounded-3xl border border-slate-200 shadow-sm">
-                    <div class="flex justify-between items-center mb-4">
-                        <p class="text-[10px] font-black text-slate-400 uppercase tracking-widest text-blue-600">Consolidated P&L (Global View)</p>
-                        <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold">12.01.19</span>
-                    </div>
-                    <img src="Screenshot 2026-01-19 at 12.01.19.png" alt="Dashboard P&L" class="rounded-2xl w-full border border-slate-50" onerror="this.src='https://via.placeholder.com/800x450?text=P%26L+Global+View'">
-                </div>
-                <div class="screenshot-card bg-white p-5 rounded-3xl border border-slate-200 shadow-sm">
-                    <div class="flex justify-between items-center mb-4">
-                        <p class="text-[10px] font-black text-slate-400 uppercase tracking-widest text-blue-600">Market-Specific Performance</p>
-                        <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold">12.01.56</span>
-                    </div>
-                    <img src="Screenshot 2026-01-19 at 12.01.56.jpg" alt="Performance Matrix" class="rounded-2xl w-full border border-slate-50" onerror="this.src='https://via.placeholder.com/800x450?text=Regional+Performance'">
-                </div>
-                <div class="screenshot-card bg-white p-5 rounded-3xl border border-slate-200 shadow-sm">
-                    <div class="flex justify-between items-center mb-4">
-                        <p class="text-[10px] font-black text-slate-400 uppercase tracking-widest text-blue-600">Cross-Warehouse Inventory</p>
-                        <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold">12.02.48</span>
-                    </div>
-                    <img src="Screenshot 2026-01-19 at 12.02.48.jpg" alt="Inventory Health" class="rounded-2xl w-full border border-slate-50" onerror="this.src='https://via.placeholder.com/800x450?text=Global+Inventory'">
-                </div>
-                <div class="screenshot-card bg-white p-5 rounded-3xl border border-slate-200 shadow-sm">
-                    <div class="flex justify-between items-center mb-4">
-                        <p class="text-[10px] font-black text-slate-400 uppercase tracking-widest text-blue-600">Unified Advertising Analysis</p>
-                        <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold">12.03.57</span>
-                    </div>
-                    <img src="Screenshot 2026-01-19 at 12.03.57.png" alt="PPC Analysis" class="rounded-2xl w-full border border-slate-50" onerror="this.src='https://via.placeholder.com/800x450?text=Multi-Platform+Ads'">
-                </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+        <div class="screenshot-card bg-white p-5 rounded-3xl border border-slate-200 shadow-sm">
+            <div class="flex justify-between items-center mb-4">
+                <p class="text-[10px] font-black text-slate-400 uppercase tracking-widest text-blue-600">Consolidated P&L (Global View)</p>
+                <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold">12.01.19</span>
             </div>
-        </section>
+            <img src="https://github.com/user-attachments/assets/08a6d630-9913-44d0-a939-a6f288ee58e2"
+                 alt="Consolidated P&L Global View"
+                 class="rounded-2xl w-full border border-slate-50">
+        </div>
+
+        <div class="screenshot-card bg-white p-5 rounded-3xl border border-slate-200 shadow-sm">
+            <div class="flex justify-between items-center mb-4">
+                <p class="text-[10px] font-black text-slate-400 uppercase tracking-widest text-blue-600">Market-Specific Performance</p>
+                <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold">12.01.56</span>
+            </div>
+            <img src="https://github.com/user-attachments/assets/5466f77b-659b-489d-a0bc-cf1b52a82785"
+                 alt="Market-Specific Performance"
+                 class="rounded-2xl w-full border border-slate-50">
+        </div>
+
+        <div class="screenshot-card bg-white p-5 rounded-3xl border border-slate-200 shadow-sm">
+            <div class="flex justify-between items-center mb-4">
+                <p class="text-[10px] font-black text-slate-400 uppercase tracking-widest text-blue-600">Cross-Warehouse Inventory</p>
+                <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold">12.02.48</span>
+            </div>
+            <img src="https://github.com/user-attachments/assets/8b8207ed-80f5-485a-b4ec-4b97085d6604"
+                 alt="Cross-Warehouse Inventory"
+                 class="rounded-2xl w-full border border-slate-50">
+        </div>
+
+        <div class="screenshot-card bg-white p-5 rounded-3xl border border-slate-200 shadow-sm">
+            <div class="flex justify-between items-center mb-4">
+                <p class="text-[10px] font-black text-slate-400 uppercase tracking-widest text-blue-600">Search Term Performance</p>
+                <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold">12.03.57</span>
+            </div>
+            <img src="https://github.com/user-attachments/assets/5e66e2b9-0c26-4300-aac2-917567ce7e76"
+                 alt="Search Term Performance"
+                 class="rounded-2xl w-full border border-slate-50">
+        </div>
+    </div>
+</section>
 
     </main>
 
